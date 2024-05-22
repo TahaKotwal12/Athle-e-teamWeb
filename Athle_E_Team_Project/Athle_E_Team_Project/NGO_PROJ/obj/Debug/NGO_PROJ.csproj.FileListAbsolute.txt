@@ -1,0 +1,497 @@
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\NGO_PROJ.dll.config
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\NGO_PROJ.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\NGO_PROJ.pdb
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\csc.exe
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\csc.exe.config
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\csc.rsp
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\csi.exe
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\csi.exe.config
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\csi.rsp
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\System.AppContext.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Collections.Immutable.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Console.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.Compression.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.FileSystem.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.Pipes.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Reflection.Metadata.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.AccessControl.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Claims.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Principal.Windows.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\System.ValueTuple.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Xml.XPath.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\vbc.exe
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\vbc.exe.config
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\vbc.rsp
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\VBCSCompiler.exe
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\roslyn\VBCSCompiler.exe.config
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\Antlr3.Runtime.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\AspNet.ScriptManager.bootstrap.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\AspNet.ScriptManager.jQuery.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\Microsoft.ScriptManager.WebForms.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\Microsoft.Web.Infrastructure.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\Newtonsoft.Json.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\System.Web.Optimization.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\WebGrease.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\System.Web.Optimization.xml
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\Newtonsoft.Json.xml
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\Antlr3.Runtime.pdb
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.csproj.CoreCompileInputs.cache
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.csproj.CopyComplete
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.dll
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.pdb
+D:\MSC_project\NGO\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.csprojAssemblyReference.cache
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\NGO_PROJ.dll.config
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\NGO_PROJ.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\NGO_PROJ.pdb
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csc.exe
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csc.exe.config
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csc.rsp
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csi.exe
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csi.exe.config
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csi.rsp
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.AppContext.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Console.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.Compression.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.Pipes.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.AccessControl.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Claims.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.ValueTuple.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Xml.XPath.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\vbc.exe
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\vbc.exe.config
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\vbc.rsp
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\VBCSCompiler.exe
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Antlr3.Runtime.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\AspNet.ScriptManager.jQuery.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Newtonsoft.Json.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\System.Web.Optimization.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\WebGrease.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\System.Web.Optimization.xml
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Newtonsoft.Json.xml
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Antlr3.Runtime.pdb
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.csproj.CoreCompileInputs.cache
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.csproj.CopyComplete
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.pdb
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.csprojAssemblyReference.cache
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\NGO_PROJ.dll.config
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\NGO_PROJ.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\NGO_PROJ.pdb
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csc.exe
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csc.exe.config
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csc.rsp
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csi.exe
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csi.exe.config
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csi.rsp
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.AppContext.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Collections.Immutable.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Console.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.Compression.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.FileSystem.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.Pipes.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Reflection.Metadata.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.AccessControl.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Claims.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Principal.Windows.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.ValueTuple.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Xml.XPath.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\vbc.exe
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\vbc.exe.config
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\vbc.rsp
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\VBCSCompiler.exe
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\VBCSCompiler.exe.config
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Antlr3.Runtime.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\AspNet.ScriptManager.bootstrap.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\AspNet.ScriptManager.jQuery.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.ScriptManager.WebForms.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.Web.Infrastructure.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Newtonsoft.Json.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\System.Web.Optimization.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\WebGrease.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\System.Web.Optimization.xml
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Newtonsoft.Json.xml
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Antlr3.Runtime.pdb
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.csproj.AssemblyReference.cache
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.csproj.CoreCompileInputs.cache
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.csproj.CopyComplete
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.dll
+D:\MSC_project\NGO_24_March_2023\NGO_PROJ\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.pdb
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\NGO_PROJ.dll.config
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\NGO_PROJ.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\NGO_PROJ.pdb
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csc.exe
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csc.exe.config
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csc.rsp
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csi.exe
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csi.exe.config
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csi.rsp
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.AppContext.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Console.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.Compression.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.Pipes.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.AccessControl.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Claims.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.ValueTuple.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Xml.XPath.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\vbc.exe
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\vbc.exe.config
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\vbc.rsp
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\VBCSCompiler.exe
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Antlr3.Runtime.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\AspNet.ScriptManager.jQuery.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Newtonsoft.Json.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\System.Web.Optimization.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\WebGrease.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\System.Web.Optimization.xml
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Newtonsoft.Json.xml
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Antlr3.Runtime.pdb
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.csprojAssemblyReference.cache
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.csproj.CoreCompileInputs.cache
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.csproj.CopyComplete
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V3\NGO_PROJ\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.pdb
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.csproj.CoreCompileInputs.cache
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\NGO_PROJ.dll.config
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\NGO_PROJ.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\NGO_PROJ.pdb
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csc.exe
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csc.exe.config
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csc.rsp
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csi.exe
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csi.exe.config
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csi.rsp
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.AppContext.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Console.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.Compression.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.Pipes.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.AccessControl.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Claims.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.ValueTuple.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Xml.XPath.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\vbc.exe
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\vbc.exe.config
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\vbc.rsp
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\VBCSCompiler.exe
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Antlr3.Runtime.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\AspNet.ScriptManager.jQuery.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Newtonsoft.Json.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\System.Web.Optimization.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\WebGrease.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\System.Web.Optimization.xml
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Newtonsoft.Json.xml
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Antlr3.Runtime.pdb
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.csproj.CopyComplete
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.pdb
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V4\NGO_PROJ\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.csprojAssemblyReference.cache
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\NGO_PROJ.dll.config
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\NGO_PROJ.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\NGO_PROJ.pdb
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csc.exe
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csc.exe.config
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csc.rsp
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csi.exe
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csi.exe.config
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\csi.rsp
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.AppContext.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Console.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.Compression.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.IO.Pipes.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.AccessControl.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Claims.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.ValueTuple.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Xml.XPath.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\vbc.exe
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\vbc.exe.config
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\vbc.rsp
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\VBCSCompiler.exe
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Antlr3.Runtime.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\AspNet.ScriptManager.jQuery.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Newtonsoft.Json.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\System.Web.Optimization.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\WebGrease.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\System.Web.Optimization.xml
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Newtonsoft.Json.xml
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Antlr3.Runtime.pdb
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.csprojAssemblyReference.cache
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.csproj.CoreCompileInputs.cache
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.csproj.CopyComplete
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.dll
+C:\Projects 2020\Projects 2020\Gogte MSC Cloud Project\NGO_PROJ_V5\NGO_PROJ\NGO_PROJ\NGO_PROJ\obj\Debug\NGO_PROJ.pdb
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\NGO_PROJ.dll.config
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\NGO_PROJ.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\NGO_PROJ.pdb
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\csc.exe
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\csc.exe.config
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\csc.rsp
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\csi.exe
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\csi.exe.config
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\csi.rsp
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\Microsoft.Managed.Core.targets
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\System.AppContext.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\System.Collections.Immutable.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\System.Console.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\System.IO.Compression.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\System.IO.FileSystem.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\System.IO.Pipes.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\System.Reflection.Metadata.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\System.Security.AccessControl.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\System.Security.Claims.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\System.Security.Principal.Windows.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\System.ValueTuple.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\System.Xml.XmlDocument.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\System.Xml.XPath.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\vbc.exe
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\vbc.exe.config
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\vbc.rsp
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\VBCSCompiler.exe
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\roslyn\VBCSCompiler.exe.config
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\Antlr3.Runtime.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\AspNet.ScriptManager.bootstrap.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\AspNet.ScriptManager.jQuery.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\Microsoft.ScriptManager.WebForms.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\Microsoft.Web.Infrastructure.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\Newtonsoft.Json.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\System.Web.Optimization.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\WebGrease.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\System.Web.Optimization.xml
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\Newtonsoft.Json.xml
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\Antlr3.Runtime.pdb
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\obj\Debug\NGO_PROJ.csprojAssemblyReference.cache
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\obj\Debug\NGO_PROJ.csproj.CoreCompileInputs.cache
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\obj\Debug\NGO_PROJ.csproj.CopyComplete
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\obj\Debug\NGO_PROJ.dll
+C:\AjeenkyaDy_Patil_Version2\Athle_E_Team_Project\NGO_PROJ\obj\Debug\NGO_PROJ.pdb
